@@ -16,4 +16,4 @@ def formatta_stringa(testo):
     con la prima lettera di ogni parola in maiuscolo.
     """
     # TODO: Implementare la formattazione della stringa
-    pass
+    return testo.title()
